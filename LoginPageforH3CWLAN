@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>欢迎登录光大永明人寿认证页面</title>
+        <title>欢迎登录XXXX认证页面</title>
         <meta http-equiv=Content-Type content="text/html; charset=GBK">
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <link href="common.css" type="text/css" rel=stylesheet>
@@ -57,7 +57,7 @@
 	
 	<script>
 	 $(document).ready(function(){	 
-		  $('#detail').html('版权所有&copy 2002-' + new Date().getFullYear() + ' 光大永明人寿有限公司.保留一切权利。');
+		  $('#detail').html('版权所有&copy 2002-' + new Date().getFullYear() + ' XXXX有限公司.保留一切权利。');
 	 })	
 	</script>
 	
@@ -134,7 +134,7 @@ function GetRequest() {
 					   }
                     </Script> 
 					<div class="commit-style" id="commit-style">
-                      <p>信息技术部欢迎您使用无线WiFi</p>
+                      <p>XXXX欢迎您使用无线WiFi</p>
                     </div>
                     </form>                                                      
                 </div>                
